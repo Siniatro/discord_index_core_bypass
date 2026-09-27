@@ -15,3 +15,4 @@ sistema operativo, o loader de 3 linhas, e como sobreviver a updates do Discord.
 | `Bypass.md` | instruções do bypass (paths, loader, updates) |
 | `index.js` | loader de 3 linhas que substitui o original |
 | `anon.js` | payload carregado pelo loader |
+| `index.js_ORIGINAL` | arquivo original do index.js |
